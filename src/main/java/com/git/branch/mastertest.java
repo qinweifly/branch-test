@@ -3,5 +3,5 @@ package com.git.branch;
 public class mastertest {
     Integer num = 666;
     int num2 = 888;
-    Double num3 = 7777.00;
+    String num3 = "7777.00";
 }

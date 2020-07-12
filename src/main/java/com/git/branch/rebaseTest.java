@@ -1,5 +1,17 @@
 package com.git.branch;
 
 public class rebaseTest {
-    String id = "first";
+    private String name ;
+    private String id ;
+
+    public rebaseTest() {
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getId() {
+        return id;
+    }
 }
